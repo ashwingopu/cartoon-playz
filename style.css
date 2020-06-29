@@ -1,0 +1,35 @@
+*{
+    margin:0;
+}
+
+#TOMANDJERRY{
+    background: aqua; 
+    color: blue;  
+}
+#CHOTTABHEEM{
+    background: dimgrey;
+    color: chocolate;
+}
+#SHINCHAN{
+    background: gold;
+    color: crimson;
+}
+header{
+    background: lightgreen;
+    text-align: center;
+}
+.cartoon{
+    text-align: center;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+   
+}
+nav ul li{
+    margin: 0 20px;
+}
+p,img,h3{
+    padding: 10px;
+}
